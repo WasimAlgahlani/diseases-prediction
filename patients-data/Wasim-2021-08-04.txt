@@ -1,0 +1,6 @@
+Patient's name is : Wasim.
+
+possible disease(s):
+hypertensive disease.
+hyperlipidemia.
+confusion.
